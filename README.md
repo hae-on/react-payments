@@ -66,7 +66,7 @@
 
 ### 📝 실행 방법
 
-- <a href="https://github.com/hae-on/react-payments/deployments/activity_log?environment=github-pages">앱 바로 실행하기</a>
+- <a href="https://hae-on.github.io/react-payments/">앱 바로 실행하기</a>
 
 - <a href="https://hae-on.github.io/react-payments/storybook">스토리북 바로 실행하기</a>
 
